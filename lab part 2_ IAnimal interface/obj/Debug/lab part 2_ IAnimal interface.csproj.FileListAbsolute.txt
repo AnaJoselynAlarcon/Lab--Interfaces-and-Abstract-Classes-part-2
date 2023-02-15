@@ -1,0 +1,8 @@
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\bin\Debug\lab part 2_ IAnimal interface.exe.config
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\bin\Debug\lab part 2_ IAnimal interface.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\bin\Debug\lab part 2_ IAnimal interface.pdb
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\obj\Debug\lab part 2_ IAnimal interface.csproj.AssemblyReference.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\obj\Debug\lab part 2_ IAnimal interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\obj\Debug\lab part 2_ IAnimal interface.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\obj\Debug\lab part 2_ IAnimal interface.exe
+C:\Users\josel\OneDrive\Documentos\OOP2 Winter2023\Lab--Interfaces-and-Abstract-Classes-part-2\lab part 2_ IAnimal interface\obj\Debug\lab part 2_ IAnimal interface.pdb
